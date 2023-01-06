@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Yo'nalishlar](README.md)
-  * [Operatsion tizimlar](yonalishlar/operatsion-tizimlar.md)
-  * [Bash scripting](yonalishlar/bash-scripting.md)
-  * [Git](yonalishlar/git.md)
-  * [Golang](yonalishlar/golang.md)
+* [IT (Information Technologies) ga ilk qadamimizni shu yerdan qo'yamiz](README.md)
+  * [Operatsion tizimlar](it-information-technologies-ga-ilk-qadamimizni-shu-yerdan-qoyamiz/operatsion-tizimlar.md)
+  * [Bash scripting](it-information-technologies-ga-ilk-qadamimizni-shu-yerdan-qoyamiz/bash-scripting.md)
+  * [Git](it-information-technologies-ga-ilk-qadamimizni-shu-yerdan-qoyamiz/git.md)
+  * [Golang](it-information-technologies-ga-ilk-qadamimizni-shu-yerdan-qoyamiz/golang.md)
