@@ -7,3 +7,4 @@ layout: editorial
 
 # Yo'nalishlar
 
+Quyidagi bo'limlardan birini tanlab, o'rganishni boshlashingiz mumkin.
