@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/image.png
+cover: ../../.gitbook/assets/image (9).png
 coverY: 0
 ---
 
@@ -11,7 +11,7 @@ Lekin, lekin endi siz dasturchi bo'lmoqchisiz! Sizga esa oddiygina qilib tugmach
 
 Keling, avvalo biz telefonimizni yoki kompyuterimizni qanday ishlashini tushunib olaylik 🤓
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Process of user interaction with hardware</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Process of user interaction with hardware</p></figcaption></figure>
 
 Ushbu suratda biz (siz, men, ular, hamma telefon yoki kompyuter ishlatuvchilar 🤪) eng yuqorida **User** qismida turibmiz. Xo'sh, biz yuqoridan turib nima qila olamiz?
 
@@ -40,17 +40,17 @@ Shuncha, bema'ni gapdan so'ng biz, qanday turdagi operatsion tizimlar borligini 
 
 *   Batch Operating System&#x20;
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Batch operating system</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Batch operating system</p></figcaption></figure>
 
     Ushbu turdagi operatsion tizim, bir xil darajadagi buyruqlarni jamlaydi hamda CPU ga "batch" bilan ya'ni donalab emas, guruhlab jo'natadi
 *   Time-Sharing Operating System
 
-    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Time-Sharing operating system</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Time-Sharing operating system</p></figcaption></figure>
 
     Ushbu turdagi tizimlar esa, bir necha buyruqlarni bir vaqtda qabul qiladi va CPU ga jo'natadi. Bu turdagi tizimlar **MultiTasking Systems** deb ham nomlanadi
 *   Distributed Operating System
 
-    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Distributed operating system</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Distributed operating system</p></figcaption></figure>
 
     Ushbu turdagi operatsion tizim, sizning bir tarmoqqa ulangan bir nechta kompyuteringizni boshqarish imkonini beradi, ya'ni bir-biridan alohida bo'lgan bir nechta telefon bor sizda, ularni esa biridan turib boshqarmoqchisiz. Sizga shunday turdagi operatsion tizim kerak bo'ladi.
 
